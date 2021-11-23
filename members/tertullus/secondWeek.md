@@ -1,5 +1,5 @@
   - #### Chideraa Ude
-  - #### Whatsapp NUmber: 09071538396
+  - #### Whatsapp Number: 09071538396
 
 
 ### (Week 2)(Data Types, Operators, Variables and Programming Environment)
